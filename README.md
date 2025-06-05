@@ -1,5 +1,7 @@
 # 不想记账 - 官方发布页
 
+![Banner](./img/不想记账/不想记账.png)
+
 [点击下载](https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.7/不想记账_v1.0.7.apk)
 
 一款基于 Android 的本地自动化记账 App
