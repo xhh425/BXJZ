@@ -1,7 +1,7 @@
 {
-  "version_code": 9,
+  "version_code": 10,
   "version_name": "1.0",
-  "update_content": "1. 深色模式全面优化：背景更深、消除色差和白屏闪烁\n2. 自动记账修复：开关失效、重启失效问题\n3. 统计页面快速点击崩溃修复\n4. 账单详情页导航异常修复\n5. 首页下拉新增动画提示，分类布局比例优化",
-  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.9/bxjz_v1.0.9.apk",
+  "update_content": "1. 弹窗记账新增备注历史\n2. 统计页面优化\n3. 多处UI细节优化",
+  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.10/bxjz_v1.0.10.apk",
   "force_update": false
 }
