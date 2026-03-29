@@ -1,7 +1,7 @@
 {
-  "version_code": 18,
+  "version_code": 19,
   "version_name": "1.0",
-  "update_content": "1. 大幅压缩安装包体积（24.8MB → 13.9MB）\n2. 修复「我的」页面版本号显示不正确的问题",
-  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.18/bxjz_v1.0.18.apk",
+  "update_content": "1. 新增图片附件功能：记账时可添加最多5张图片，支持大图查看与滑动浏览\n2. 弹窗记账图片选择器全面升级：内嵌相册浏览、相册封面缩略图、选中顺序编号、流畅切换动画\n3. 修复弹窗记账深色模式下文字颜色异常\n4. 修复含 VS-16 变体的 emoji（如↩️）在账单详情页显示为灰色符号的问题\n5. 账单详情页样式优化：列表间距收紧、字号统一、附件图片仅查看不可删除\n6. 安装包体积 13.9MB（较早期版本减少约 11MB）",
+  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.19/bxjz_v1.0.19.apk",
   "force_update": false
 }
