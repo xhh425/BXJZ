@@ -1,7 +1,7 @@
 {
-  "version_code": 20,
+  "version_code": 21,
   "version_name": "1.0",
-  "update_content": "1. 修复弹窗记账备注历史无法滑动查看更多的问题",
-  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.20/bxjz_v1.0.20.apk",
+  "update_content": "1. 修复工资到账重复记账的问题\n2. 修复招商银行非涉资通知误触弹窗的问题",
+  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.21/bxjz_v1.0.21.apk",
   "force_update": false
 }
