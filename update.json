@@ -1,7 +1,7 @@
 {
-  "version_code": 25,
+  "version_code": 26,
   "version_name": "1.0",
-  "update_content": "1. 取消底部导航栏点按效果\n2. 字体通用性初步修复",
-  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.25/bxjz_v1.0.25.apk",
+  "update_content": "1. 修复分类卡片与弹窗中退款、兼职等 emoji 字体异常\n2. Add 页面分类展示统一为 emoji 换行名称\n3. 继续保持底部导航无点按颗粒效果",
+  "download_url": "https://gitee.com/xhh425/o-o-app-update/releases/download/v1.0.26/bxjz_v1.0.26.apk",
   "force_update": false
 }
